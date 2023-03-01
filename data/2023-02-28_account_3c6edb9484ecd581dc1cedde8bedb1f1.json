@@ -1,0 +1,23 @@
+{
+    "results": [
+        {
+            "update_timestamp": "2023-02-28T13:33:42.6198907Z",
+            "account_id": "3c6edb9484ecd581dc1cedde8bedb1f1",
+            "account_type": "SAVINGS",
+            "display_name": "SAVINGS ACCOUNT 1",
+            "currency": "GBP",
+            "account_number": {
+                "iban": "GB08CLRB04066800003435",
+                "swift_bic": "CPBKGB00",
+                "number": "20000000",
+                "sort_code": "01-21-31"
+            },
+            "provider": {
+                "display_name": "MOCK",
+                "provider_id": "mock",
+                "logo_uri": "mock-bank.png"
+            }
+        }
+    ],
+    "status": "Succeeded"
+}

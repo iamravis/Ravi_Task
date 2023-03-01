@@ -1,0 +1,39 @@
+{
+    "results": [
+        {
+            "frequency": "IntrvlMnthDay:01:26",
+            "status": "Active",
+            "timestamp": "2019-07-24T11:29:47Z",
+            "currency": "GBP",
+            "meta": {
+                "provider_account_id": "12345ca1-18fd-4e6b-891e-0597cac6bb8c",
+                "provider_standing_order_id": "67020711"
+            },
+            "next_payment_date": "2023-03-28T13:39:46.016Z",
+            "next_payment_amount": 500.0,
+            "first_payment_date": "2023-02-18T13:39:46.016Z",
+            "first_payment_amount": 535.0,
+            "final_payment_date": "2024-02-28T13:39:46.016Z",
+            "final_payment_amount": 500.0,
+            "reference": "Savings"
+        },
+        {
+            "frequency": "IntrvlMnthDay:01:30",
+            "status": "Active",
+            "timestamp": "2019-07-24T11:29:47Z",
+            "currency": "GBP",
+            "meta": {
+                "provider_account_id": "12345ca1-18fd-4e6b-891e-0597cac6bb8c"
+            },
+            "next_payment_date": "2023-03-20T13:39:46.016Z",
+            "next_payment_amount": 1500.0,
+            "first_payment_date": "2022-07-28T13:39:46.016Z",
+            "first_payment_amount": 1500.0,
+            "final_payment_date": "2023-09-28T13:39:46.017Z",
+            "final_payment_amount": 1500.0,
+            "payee": "JOHN DOE",
+            "reference": "MONZO"
+        }
+    ],
+    "status": "Succeeded"
+}

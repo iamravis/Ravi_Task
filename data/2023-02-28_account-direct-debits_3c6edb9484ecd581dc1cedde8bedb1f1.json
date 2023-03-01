@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "direct_debit_id": "11fc25c96467f4221daf499983c0b8ee",
+            "timestamp": "2023-02-28T12:39:08.948Z",
+            "name": "EE",
+            "status": "Active",
+            "previous_payment_amount": 25.5,
+            "currency": "GBP",
+            "meta": {
+                "provider_account_id": "1000000000000000002",
+                "provider_mandate_identification": "6"
+            }
+        },
+        {
+            "direct_debit_id": "684a18d78e098714202e159ebf418e48",
+            "timestamp": "2023-02-28T12:39:08.948Z",
+            "name": "PAYPAL",
+            "status": "Active",
+            "previous_payment_timestamp": "2023-02-03T13:39:08.948Z",
+            "meta": {
+                "provider_account_id": "2000000000000000002",
+                "provider_mandate_identification": "9"
+            }
+        },
+        {
+            "direct_debit_id": "089c01e847ba8082d97dcb19ab3cef26",
+            "timestamp": "2023-02-28T12:39:08.948Z",
+            "name": "BT INTERNET",
+            "previous_payment_timestamp": "2023-02-08T13:39:08.948Z",
+            "previous_payment_amount": 16.99,
+            "currency": "GBP",
+            "meta": {
+                "provider_account_id": "3000000000000000002",
+                "provider_mandate_identification": "7"
+            }
+        }
+    ],
+    "status": "Succeeded"
+}

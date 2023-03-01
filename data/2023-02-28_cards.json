@@ -1,0 +1,35 @@
+{
+    "results": [
+        {
+            "account_id": "2cbf9b6063102763ccbe3ea62f1b3e72",
+            "card_network": "MASTERCARD",
+            "card_type": "CREDIT",
+            "currency": "GBP",
+            "display_name": "CREDIT CARD 1",
+            "partial_card_number": "1000",
+            "name_on_card": "John Doe ",
+            "update_timestamp": "2023-02-28T13:40:33.4794294Z",
+            "provider": {
+                "display_name": "MOCK",
+                "provider_id": "mock",
+                "logo_uri": "mock-bank.png"
+            }
+        },
+        {
+            "account_id": "328f557c68aebd532cbbd05ce5bcb6c8",
+            "card_network": "VISA",
+            "card_type": "CREDIT",
+            "currency": "GBP",
+            "display_name": "CREDIT CARD 2",
+            "partial_card_number": "2000",
+            "name_on_card": "John Doe ",
+            "update_timestamp": "2023-02-28T13:40:33.4794395Z",
+            "provider": {
+                "display_name": "MOCK",
+                "provider_id": "mock",
+                "logo_uri": "mock-bank.png"
+            }
+        }
+    ],
+    "status": "Succeeded"
+}

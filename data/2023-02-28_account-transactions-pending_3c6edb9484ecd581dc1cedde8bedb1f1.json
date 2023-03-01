@@ -1,0 +1,73 @@
+{
+    "results": [
+        {
+            "timestamp": "2023-02-28T00:00:00Z",
+            "description": "Tesco",
+            "transaction_type": "DEBIT",
+            "transaction_category": "PURCHASE",
+            "transaction_classification": [
+                "Shopping",
+                "Groceries"
+            ],
+            "merchant_name": "Tesco",
+            "amount": -12.59,
+            "currency": "GBP",
+            "transaction_id": "322d9b14c51889c8dd56dee62d2968ac",
+            "provider_transaction_id": "397743ba9326243fc6",
+            "normalised_provider_transaction_id": "txn-0a179c3ea437082c4",
+            "meta": {
+                "provider_transaction_category": "DEB"
+            }
+        },
+        {
+            "timestamp": "2023-02-28T00:00:00Z",
+            "description": "PAYPAL GUMTREE",
+            "transaction_type": "DEBIT",
+            "transaction_category": "PURCHASE",
+            "transaction_classification": [
+                "Shopping",
+                "General"
+            ],
+            "merchant_name": "Paypal",
+            "amount": -75.56,
+            "currency": "GBP",
+            "transaction_id": "05e24479e620b6ed599fcbbaaccd1fa1",
+            "provider_transaction_id": "d65d72626c52f9de65",
+            "normalised_provider_transaction_id": "txn-e133a33d62f59b49a",
+            "meta": {
+                "provider_transaction_category": "DEB"
+            }
+        },
+        {
+            "timestamp": "2023-02-28T00:00:00Z",
+            "description": "Tesco Online Shopping",
+            "transaction_type": "DEBIT",
+            "transaction_category": "PURCHASE",
+            "transaction_classification": [],
+            "amount": -3.59,
+            "currency": "GBP",
+            "transaction_id": "daa422a5865fc5269cf2b57ca81fc8c5",
+            "provider_transaction_id": "9e549549b536d5b365",
+            "normalised_provider_transaction_id": "txn-576fffd3370ca7744",
+            "meta": {
+                "provider_transaction_category": "DEB"
+            }
+        },
+        {
+            "timestamp": "2023-02-27T00:00:00Z",
+            "description": "WWW.ANNSUMMERS.COM",
+            "transaction_type": "DEBIT",
+            "transaction_category": "PURCHASE",
+            "transaction_classification": [],
+            "amount": -12.5,
+            "currency": "GBP",
+            "transaction_id": "15d8ea91c22c4d09e982c90b8948852e",
+            "provider_transaction_id": "d5a1b6afa62b3e0388",
+            "normalised_provider_transaction_id": "txn-458d509d9232ffefe",
+            "meta": {
+                "provider_transaction_category": "DEB"
+            }
+        }
+    ],
+    "status": "Succeeded"
+}
